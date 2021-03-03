@@ -1,0 +1,11 @@
+skip_link: Skip to main content
+alpha: Alpha
+disclaimer: This is a development website. We welcome your
+  <a href="mailto:%email_address">feedback</a>.
+tag_line: Our plan for improving the environment within a generation
+high_contrast: High contrast
+default_contrast: Default contrast
+enable_high_contrast: Enable high contrast
+disable_high_contrast: Disable high contrast
+toggle_search: Search toggle. Click to expand or collapse the search bar.
+toggle_menu: Menu toggle. Click to expand or collapse the menu.
