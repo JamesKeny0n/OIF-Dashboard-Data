@@ -1,0 +1,47 @@
+---
+goal_meta_link_text: UN metadata
+reporting_status: inprogress
+data_non_statistical: false
+data_show_map: false
+graph_type: line
+source_active_1: true
+source_url_text_1: Link to source
+source_active_2: false
+source_url_text_2: Link to Source
+source_active_3: false
+source_url_3: Link to source
+source_active_4: false
+source_url_text_4: Link to source
+source_active_5: false
+source_url_text_5: Link to source
+source_active_6: false
+source_url_text_6: Link to source
+published: false
+title: ''
+indicator_name: 'Clean seas: marine litter'
+national_geographical_coverage: UK
+computation_units: Items /100m
+data_footnote: >-
+  Note: Trends in UK seafloor litter are represented by spatially smoothed
+  predictions of the median total number of pieces of litter per kilometre, at a
+  grid of points. The colours represent differing relative medians. This is
+  using data combined over the years, although similar patterns are present in
+  the data for the individual years. More data are required to make a full
+  assessment of the trend in the amount of seafloor litter in specific areas of
+  UK waters.
+source_organisation_1: Cefas
+source_url_1: 'https://moat.cefas.co.uk/pressures-from-human-activities/marine-litter/'
+---
+**Trend description:** The average total abundance of beach litter items per 100m of coast
+varies considerably around the UK with greater quantities being recorded in the Celtic
+Seas than the Greater North Sea. After showing some decrease from 2011 to 2013, beach
+litter levels in the Celtic Seas whilst fluctuating have risen to greater than the 2008 levels.
+In the Greater North Sea there has been an increase in beach litter levels. Water currents,
+weather conditions, and prevailing wind conditions can have an influence on the deposition
+and retention of beach litter and therefore beach litter abundance.
+From 2004 to 2014 approximately 60% of surveyed fulmars were found to have more than
+0.1g of plastic found in their stomachs. This reflects the abundance of floating litter in their environment.
+From sampling UK seafloor litter to date higher amounts of litter and plastic have been
+found per km2 of seafloor in the Greater North Sea compared to the Celtic Seas. There
+were also higher amounts of seafloor litter in the southern parts of the Greater North Sea
+and Celtic Seas, which could be a result of increasing human pressures.
