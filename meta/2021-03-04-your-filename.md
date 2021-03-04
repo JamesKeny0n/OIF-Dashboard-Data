@@ -1,0 +1,32 @@
+---
+goal_meta_link_text: UN metadata
+reporting_status: inprogress
+data_non_statistical: false
+data_show_map: false
+graph_type: line
+source_active_1: true
+source_url_text_1: Link to source
+source_active_2: false
+source_url_text_2: Link to Source
+source_active_3: false
+source_url_3: Link to source
+source_active_4: false
+source_url_text_4: Link to source
+source_active_5: false
+source_url_text_5: Link to source
+source_active_6: false
+source_url_text_6: Link to source
+published: false
+title: ''
+indicator_name: 'Extent and condition of protected sites – land, water and sea'
+national_geographical_coverage: England
+data_footnote: >-
+  Note: The extent of protected sites is the cumulative area assessed in March
+  of each year shown.
+source_organisation_1: Natural England
+source_url_1: 'https://www.gov.uk/government/statistics/england-biodiversity-indicators'
+---
+**Trend description:** The total extent of land, water and sea protected in England through national and international protected areas increased from 1.2 million hectares in 1999 to 2.7 million hectares in 2019. The area of sites at sea has increased substantially, by more than 5 times since the time series began in 1999 although the majority of this increase took place between 2011 and 2018. The area of sites on land and water has remained relatively stable over time, increasing by 6% between 1999 and 2019.
+
+There has been a net decrease in the area of SSSIs in favourable condition; down from 44% in 2003 to 38.9% in 2019. The sudden drop in the area of SSSIs in favourable condition from 43.2% in 2010 to 36.6% in 2011 was largely due to a more rigorous application of the ‘Common Standard for Monitoring’ protocols in assessing feature condition. However, over the past 8 years, there has been a small increase in the area in
+favourable condition, from 36.6% in 2011 to 38.9% in 2019. The area of SSSIs in unfavourable recovering condition has increased substantially from 13% in 2003 to 54.7% in 2019. 
