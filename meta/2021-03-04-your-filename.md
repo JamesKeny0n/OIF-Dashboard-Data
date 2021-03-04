@@ -25,7 +25,7 @@ national_geographical_coverage: England
 computation_units: Percentage of land area exceeding critical levels
 source_organisation_1: Centre for Ecology & Hydrology
 source_url_1: 'https://uk-air.defra.gov.uk/library/reports?report_id=982'
+source_periodicity_1: 3-year moving average time periods
 ---
-## A New Post
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+**Trend description:** The percentage of land area exposed to concentrations of NH3 that
+exceed critical levels (1 μg/m3) has decreased from 88.9% in 2009-11 to 87.1% in 2014-16. 
