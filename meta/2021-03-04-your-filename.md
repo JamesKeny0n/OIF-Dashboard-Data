@@ -1,0 +1,28 @@
+---
+goal_meta_link_text: UN metadata
+reporting_status: inprogress
+data_non_statistical: false
+data_show_map: false
+graph_type: bar
+source_active_1: true
+source_url_text_1: Link to source
+source_active_2: false
+source_url_text_2: Link to Source
+source_active_3: false
+source_url_3: Link to source
+source_active_4: false
+source_url_text_4: Link to source
+source_active_5: false
+source_url_text_5: Link to source
+source_active_6: false
+source_url_text_6: Link to source
+published: false
+title: ''
+indicator_name: 'Area of woodland in England, 1998 to 2019'
+national_geographical_coverage: England
+computation_units: Area of woodland (million hectares)
+source_organisation_1: Forestry Commission; Forest Research
+source_url_1: >-
+  https://www.gov.uk/government/collections/forestry-commission-corporate-plan-performance-indicators
+---
+**Trend description:** The total area of woodland in England has increased from 1.24 million hectares in 1998 to 1.31 million hectares in 2019, equating to an increase from 9.5% to 10.0% of the land area of England. This growth has been driven by an increase in broadleaf woodland; the area of conifer woodland in England has remained relatively static over the last 20 years.
