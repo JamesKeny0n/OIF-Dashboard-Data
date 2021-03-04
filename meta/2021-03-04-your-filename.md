@@ -17,18 +17,16 @@ source_url_text_5: Link to source
 source_active_6: false
 source_url_text_6: Link to source
 published: false
-title: ''
-indicator_name: 'Rivers in England achieving good or high ecological status, 2009 to 2016'
+title: Untitled
+indicator_name: 'Condition of bathing waters in England, 1995 to 2019'
 national_geographical_coverage: England
-computation_units: Percentage of rivers
-data_footnote: >-
-  Note: Due to the changes in assessment methodology from 2014 it is not
-  possible to make direct comparisons between the methods.
+computation_units: Percentage of bathing waters
 source_organisation_1: Environment Agency
-source_url_1: >-
-  https://data.gov.uk/dataset/92659478-0d30-4484-bfef-6abfbe72b4a5/wfd-cycle-2-site-classifications-2016
+source_url_1: 'https://www.gov.uk/government/statistics/bathing-water-quality-statistics'
 ---
-**Trend description:** In 2016, 14% of English river water bodies assessed under the WFD
-were in good or high ecological status when measured using the ‘one out all out’
-methodology highlighted in the ‘interim indicator’ section above and there is evidence of a
-small decline in these figures since 2014. [Other data](https://www.gov.uk/government/publications/state-of-the-environment) e.g. the percentage of individual tests meeting good or high ecological status, or the average concentration of individual pollutants, show the prevalence of good water quality and reductions in the level of some pollutants in recent decades. 
+**Trend description:** The number of designated bathing waters in England meeting at least
+the minimum standard (i.e. sufficient, good or excellent) has increased considerably from
+45.7% in 1995 to 98.3% in 2019; it has remained relatively stable over the last 4 years at
+between 97.8% and 98.5%. The number of bathing waters achieving excellent status has
+also increased considerably since 1995, with 71.4% meeting this standard in 2019. The
+number of bathing waters rated as poor has remained below 3% since 2015.
