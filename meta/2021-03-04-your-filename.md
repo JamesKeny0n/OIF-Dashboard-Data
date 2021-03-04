@@ -1,0 +1,30 @@
+---
+goal_meta_link_text: UN metadata
+reporting_status: inprogress
+data_non_statistical: false
+data_show_map: false
+graph_type: line
+source_active_1: true
+source_url_text_1: Link to source
+source_active_2: false
+source_url_text_2: Link to Source
+source_active_3: false
+source_url_3: Link to source
+source_active_4: false
+source_url_text_4: Link to source
+source_active_5: false
+source_url_text_5: Link to source
+source_active_6: false
+source_url_text_6: Link to source
+published: false
+title: ''
+indicator_name: >-
+  Percentage of the annual growth of trees in English woodlands that is
+  harvested, 2010 to 2018
+national_geographical_coverage: England
+computation_units: Percentage of annual growth harvested
+source_organisation_1: Forestry Commission; Forest Research
+source_url_1: >-
+  https://www.gov.uk/government/collections/forestry-commission-corporate-plan-performance-indicators
+---
+**Trend description:** The percentage of softwood growth in England which is harvested has fluctuated between 67% and 92% over the 9 years for which these data are reported, reflecting sustained active management of softwood resources. The percentage of hardwood growth which is harvested remains much lower (between 13% and 16% over the same 9-year period), reflecting a lower level of active management of broadleaved woodland for timber supplies.
