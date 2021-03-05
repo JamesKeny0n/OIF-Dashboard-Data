@@ -1,0 +1,25 @@
+---
+goal_meta_link_text: UN metadata
+reporting_status: inprogress
+data_non_statistical: false
+data_show_map: false
+graph_type: line
+source_active_1: true
+source_url_text_1: Link to source
+source_active_2: false
+source_url_text_2: Link to Source
+source_active_3: false
+source_url_3: Link to source
+source_active_4: false
+source_url_text_4: Link to source
+source_active_5: false
+source_url_text_5: Link to source
+source_active_6: false
+source_url_text_6: Link to source
+published: false
+title: ''
+indicator_name: Emissions of mercury and persistent organic pollutants to the environment
+national_geographical_coverage: UK
+source_url_1: 'https://naei.beis.gov.uk/data/data-selector'
+---
+**Short description:** This indicator shows changes in emissions of mercury and persistent organic pollutants (POPs) to air, land and water from measured, calculated and modelled sources. POPs refers to pollutants listed under the Stockholm Convention. These are industrial, pesticide and unintentionally produced substances. POPs are chemicals that remain intact in the environment for long periods, become widely distributed geographically, accumulate in the tissues of humans and wildlife, and have harmful impacts on human health or on the environment. Mercury is toxic and can cause damage to human health and accumulates in the environment and the food chain. For mercury, which is covered by the Minamata Convention, combustion sources are particularly significant, and information on emissions is provided annually by larger industrial sites. Other major sources of mercury to air will be gathered from different data sources.
