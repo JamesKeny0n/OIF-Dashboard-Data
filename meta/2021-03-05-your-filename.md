@@ -1,0 +1,25 @@
+---
+goal_meta_link_text: UN metadata
+reporting_status: inprogress
+data_non_statistical: false
+data_show_map: false
+graph_type: line
+source_active_1: true
+source_url_text_1: Link to source
+source_active_2: false
+source_url_text_2: Link to Source
+source_active_3: false
+source_url_3: Link to source
+source_active_4: false
+source_url_text_4: Link to source
+source_active_5: false
+source_url_text_5: Link to source
+source_active_6: false
+source_url_text_6: Link to source
+published: false
+title: ''
+indicator_name: Communities resilient to flooding and coastal erosion
+national_geographical_coverage: England
+source_url_1: 'https://consult.environment-agency.gov.uk/fcrm/fcerm-national-strategy-info/'
+---
+**Short description:** This indicator will show changes in the resilience of communities that are at risk of flooding and coastal erosion. This indicator, which requires development, will be sensitive to future climate change and show the need for adaptation. The scope of this indicator, particularly for coastal erosion, is contingent on data being available to track broader community resilience beyond that of property. Scope and details of this indicator are subject to decisions on long-term Flood and Coastal Erosion Risk Management (FCERM) policy. Later this year, the government will set out its policies to tackle flood and coastal erosion risk in the long term, and the Environment Agency will publish an updated Flood and Coastal Erosion Risk Management Strategy for England.
